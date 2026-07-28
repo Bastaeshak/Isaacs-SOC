@@ -80,3 +80,13 @@ KALI01
 - MITRE ATT&CK Mapping
 - Incident Response
 - Web Application Security
+
+## Security Frameworks & Standards
+
+- MITRE ATT&CK
+- NIST Cybersecurity Framework (CSF)
+- NIST SP 800-61 (Incident Response)
+- OWASP Top 10
+- CIS Critical Security Controls
+- CVSS v3.1
+- Sigma Rules
